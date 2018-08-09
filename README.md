@@ -7,6 +7,6 @@ Library is obviously unstable and still in concept, but you have to start somewh
 
 ### Ideas
 
-- have this tied to the JSON API spec - ![http://jsonapi.org/][http://jsonapi.org/]
+- have this tied to the JSON API spec - [http://jsonapi.org](http://jsonapi.org/)
 - follow HTTP 1/2 spec.
 - syntactic sugar for large JSON data and transforming data based on user's use case
